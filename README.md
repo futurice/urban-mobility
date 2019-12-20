@@ -46,6 +46,8 @@ Limit free tier: 5G
 
 ### Resources<a name="resources"></a>
 
+[Data science session slides](https://docs.google.com/presentation/d/1ZF_Ad9FrbP65MmyPDdc48Jfdg05hwSlPEcXkC3f-N_M/edit?usp=sharing)
+
 [Urban accessibility blogpost](https://towardsdatascience.com/measuring-pedestrian-accessibility-97900f9e4d56)
 
 [Traffic Safely with Kepler](https://eng.uber.com/kepler-data-visualization-traffic-safety/)
