@@ -8,6 +8,7 @@ Create data analyses, visualizations and predictions on urban mobility data
 3. [Tasks](#tasks)
 4. [Tools](#tools)
 5. [Resources](#resources)
+6. [Curriculum](#curriculum)
 
 ### Data sources<a name="data"></a>
 
@@ -53,3 +54,11 @@ Limit free tier: 5G
 [Traffic Safely with Kepler](https://eng.uber.com/kepler-data-visualization-traffic-safety/)
 
 [Dashboard for urban mobility - bikes Uber](https://medium.com/uber-movement/newsroom-post-new-mobility-dashboard-for-jump-electric-bikes-4965af05b6dc)
+
+### Curriculum<a name="curriculum"></a>
+
+[Urban Data Science](https://github.com/gboeing/urban-data-science)
+
+[A tool for GTFS transit and OSM pedestrian network accessibility analysis](https://github.com/UDST/urbanaccess)
+
+[UrbanSim, a tool for modeling metropolitan real estate markets](https://github.com/udst/urbansim)
